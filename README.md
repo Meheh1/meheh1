@@ -1,11 +1,11 @@
 # Hello, I'm Steven
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a seasoned cybersecurity professional with over 5 years of experience in the industry, specializing in security operations. Throughout my career, I’ve had the privilege of working with a diverse range of companies, including top consulting firms and government entities.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To provide comprehensive guidance and mentorship for beginners in the field of cybersecurity, making their entry into this complex and dynamic field more accessible and manageable.
 
 ## Skills
 
